@@ -7,10 +7,16 @@ public class CreateOrgTest {
 	public void createorg()
 	{
 		System.out.println("organization is created");
+
 		System.out.println("create org test");
 		System.out.println();
+
+		System.out.println("Hello World");
+		System.out.println("org created with industry");
+
 		System.out.println();
 		
 	}
 
 }
+  
