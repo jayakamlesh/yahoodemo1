@@ -7,6 +7,9 @@ public class CreateOrgTest {
 	public void createorg()
 	{
 		System.out.println("organization is created");
+		System.out.println("Hello World");
+		
 	}
 
 }
+  
